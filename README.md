@@ -1,2 +1,4 @@
 # hello-world
-n/a
+
+
+this is my first git repository!
